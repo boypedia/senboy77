@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @senboy77
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```bash
+- 👋 Hello, I’m @SenBoy77
+- 👀 I’m interested in the media
+- 🌱 I'm just a beginner in this field
+- 💞️ I don't care what people say about me, I just want to give this a try
+- 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
+```
+
+<p align="center">
+<a href="https://instagram.com/sen77_boy"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/6281264116045"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
 
 <!---
-senboy77/senboy77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I LOVE YOU GUYS
 --->
